@@ -49,7 +49,7 @@ def calculate_bac():
     if result >= 0:
         return result
     else:
-        return "0.00 ‰"
+        return 0.00
 
 bigmac_kcal = 550
 kcal = chosen_type["kcal/portion"]
