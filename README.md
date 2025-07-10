@@ -13,3 +13,6 @@ Used technologies:
 - time
 - openpyxl
 - altair
+
+**Disclaimer**
+-> This app is hosted on Streamlit Community Cloud and may go inactive after a period of inactivity. If so, just click 'Wake up app' or refresh the page.
