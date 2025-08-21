@@ -7,6 +7,7 @@ to common foods.
 Calculation of BAC is made using Widmark's formula.
 
 **Link:**
+
 https://alcohol-calculator-by-monika.streamlit.app/
 
 Used technologies:
