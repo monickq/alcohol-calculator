@@ -6,6 +6,9 @@ For making it more interesting, it also calculates calories for that particular 
 to common foods.
 Calculation of BAC is made using Widmark's formula.
 
+**Link:**
+https://alcohol-calculator-by-monika.streamlit.app/
+
 Used technologies:
 - Python 3.13
 - Streamlit
